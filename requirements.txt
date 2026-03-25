@@ -1,0 +1,8 @@
+google-adk
+httpx
+litellm
+anthropic[vertex]
+Pillow
+google-cloud-storage
+fastapi
+uvicorn
